@@ -24,12 +24,22 @@ namespace kodluyoruz_projeleri
             Console.WriteLine(firstnum+" ve "+secondnum+" Sayının Toplamı : "+(firstnum+secondnum));*/
 
             //Alıştırma 3: Dikdörtgenin alanını ve çevresini hesaplayarak ekranda gösteren program 
-            Console.Write("Kısa Kenar : ");
+            /*Console.Write("Kısa Kenar : ");
             int n=int.Parse(Console.ReadLine());
             Console.Write("Uzun Kenar : ");
             int m=int.Parse(Console.ReadLine());
             Console.WriteLine( "Alan : "+(n*m));
-            Console.WriteLine( "Çevre : "+(n+m)*2);
+            Console.WriteLine( "Çevre : "+(n+m)*2);*/
+
+
+            //Alıştırma 4: Girilen sayının tek mi çift mi olduğunu bulan program
+
+            Console.Write("Bir sayı giriniz : ");
+            int num=int.Parse(Console.ReadLine());
+            if(num%2==0)
+                Console.Write(num+" çifttir.");
+            else
+                Console.Write(num+" tektir.");
         }
     }
 }
