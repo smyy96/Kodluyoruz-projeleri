@@ -16,12 +16,20 @@ namespace kodluyoruz_projeleri
 
 
             //Alıştırma 2: Kullanıcıdan 2 sayı isteyerek bu sayıların toplamını bulan program
-            Console.Write("1. Sayı : ");
+            
+            /*Console.Write("1. Sayı : ");
             int firstnum=int.Parse(Console.ReadLine());
             Console.Write("2. Sayı : ");
             int secondnum=int.Parse(Console.ReadLine());
-            Console.WriteLine(firstnum+" ve "+secondnum+" Sayının Toplamı : "+(firstnum+secondnum));     
-            
+            Console.WriteLine(firstnum+" ve "+secondnum+" Sayının Toplamı : "+(firstnum+secondnum));*/
+
+            //Alıştırma 3: Dikdörtgenin alanını ve çevresini hesaplayarak ekranda gösteren program 
+            Console.Write("Kısa Kenar : ");
+            int n=int.Parse(Console.ReadLine());
+            Console.Write("Uzun Kenar : ");
+            int m=int.Parse(Console.ReadLine());
+            Console.WriteLine( "Alan : "+(n*m));
+            Console.WriteLine( "Çevre : "+(n+m)*2);
         }
     }
 }
