@@ -48,12 +48,20 @@ namespace kodluyoruz_projeleri
 
 
             //Alıştırma 5: Girilen sayının 0-100 arasında olup olmadığını kontrol eden program
-            Console.Write("Bir sayı giriniz : ");
+            /*Console.Write("Bir sayı giriniz : ");
             int num=int.Parse(Console.ReadLine());
             if(num>=0 && num<=100)
                 Console.Write(num+" sayısı 0-100 arasındadır.");
             else
-                Console.Write(num+" sayısı 0-100 arasında değildir.");
+                Console.Write(num+" sayısı 0-100 arasında değildir.");*/
+
+
+            //6: Vücut Kitle İndeksi hesaplayan program
+            Console.Write("Kilonuz : ");
+            double weight=double.Parse(Console.ReadLine());
+            Console.Write("Boyunuz : ");
+            float height=float.Parse(Console.ReadLine());
+            Console.WriteLine( "Vücut kitle indeksi : "+(weight/(height*height)));
 
 
         }
