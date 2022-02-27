@@ -56,7 +56,18 @@ namespace _2.hafta
 
 
         public static void soru4(){//Girilen Metindeki Sesli Harfleri Bulan Program
-
+            string vowels="aeıioöuü";
+            Console.Write("Enter a text : ");
+            string n=Console.ReadLine();
+            for(int i=0;i<n.Length;i++){
+                for(int x=0;x<vowels.Length;x++){
+                    if(vowels[x]==n[i])
+                    {
+                        Console.Write(n[i]+" ");
+                    }
+                }
+                
+            }
         }
 
 
@@ -67,7 +78,7 @@ namespace _2.hafta
             //soru1();
             //soru2();
             //soru3();
-            
+            soru4();
         }
     }
 }

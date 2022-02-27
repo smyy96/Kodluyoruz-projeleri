@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\2.hafta\\2.hafta.csproj": {}
+    "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\2.hafta\\2.hafta.csproj": {}
   },
   "projects": {
-    "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\2.hafta\\2.hafta.csproj": {
+    "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\2.hafta\\2.hafta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\2.hafta\\2.hafta.csproj",
+        "projectUniqueName": "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\2.hafta\\2.hafta.csproj",
         "projectName": "2.hafta",
-        "projectPath": "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\2.hafta\\2.hafta.csproj",
+        "projectPath": "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\2.hafta\\2.hafta.csproj",
         "packagesPath": "C:\\Users\\Sumeyye\\.nuget\\packages\\",
-        "outputPath": "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\2.hafta\\obj\\",
+        "outputPath": "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\2.hafta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sumeyye\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,3 +14,19 @@ E:\ders notları\PATİKA\Kodluyoruz projeleri\2.hafta\obj\Debug\net5.0\2.hafta.d
 E:\ders notları\PATİKA\Kodluyoruz projeleri\2.hafta\obj\Debug\net5.0\ref\2.hafta.dll
 E:\ders notları\PATİKA\Kodluyoruz projeleri\2.hafta\obj\Debug\net5.0\2.hafta.pdb
 E:\ders notları\PATİKA\Kodluyoruz projeleri\2.hafta\obj\Debug\net5.0\2.hafta.genruntimeconfig.cache
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\bin\Debug\net5.0\2.hafta.exe
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\bin\Debug\net5.0\2.hafta.deps.json
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\bin\Debug\net5.0\2.hafta.runtimeconfig.json
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\bin\Debug\net5.0\2.hafta.runtimeconfig.dev.json
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\bin\Debug\net5.0\2.hafta.dll
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\bin\Debug\net5.0\ref\2.hafta.dll
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\bin\Debug\net5.0\2.hafta.pdb
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.AssemblyInfo.cs
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.dll
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\ref\2.hafta.dll
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.pdb
+C:\Users\Sumeyye\Documents\GitHub\Kodluyoruz-projeleri\2.hafta\obj\Debug\net5.0\2.hafta.genruntimeconfig.cache
