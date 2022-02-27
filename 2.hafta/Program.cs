@@ -82,13 +82,29 @@ namespace _2.hafta
         
          }
 
+
+         public static void soru6(){ 
+            //Bilgisayarın rastgele tuttuğu 10 sayıdan çift ve tek olanların sayısını gösteren program
+            Random random=new Random();
+            int num=0;
+            for(int i=0;i<10;i++){
+                num = random.Next();
+                if(num%2==0)
+                    Console.WriteLine(num+" is an even number.");
+                else
+                    Console.WriteLine(num+" is an odd number.");
+
+            }
+         }
+
         static void Main(string[] args)
         {
             //soru1();
             //soru2();
             //soru3();
             //soru4();
-            soru5();
+            //soru5();
+            soru6();
         }
     }
 }
