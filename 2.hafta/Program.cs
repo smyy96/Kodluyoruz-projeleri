@@ -71,14 +71,24 @@ namespace _2.hafta
         }
 
 
-
+         public static void soru5(){
+             //Kullanıcıdan 10 adet sayı alarak bu sayıların toplamını ekranda gösteren program
+            int sum=0;
+            for(int i =1;i<=10;i++){
+                Console.Write(i+". number: ");
+                sum+=int.Parse(Console.ReadLine());
+            }
+            Console.Write("Sum number : "+sum);  
+        
+         }
 
         static void Main(string[] args)
         {
             //soru1();
             //soru2();
             //soru3();
-            soru4();
+            //soru4();
+            soru5();
         }
     }
 }
