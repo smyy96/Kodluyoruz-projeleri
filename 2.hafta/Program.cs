@@ -97,6 +97,17 @@ namespace _2.hafta
             }
          }
 
+         public static void soru7(){ //Kullanıcının girdiği metni kullanıcının girdiği sayıda ekranda yazdıran Program
+            Console.Write("Enter a text : ");
+            string text=Console.ReadLine();
+            Console.Write("The number of repetitions : ");
+            int numRepet=int.Parse(Console.ReadLine());
+            while(numRepet!=0){
+                Console.WriteLine(text);
+                numRepet-=1;
+            }    
+         }
+
         static void Main(string[] args)
         {
             //soru1();
@@ -104,7 +115,8 @@ namespace _2.hafta
             //soru3();
             //soru4();
             //soru5();
-            soru6();
+            //soru6();
+            soru7();
         }
     }
 }
