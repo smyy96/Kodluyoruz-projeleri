@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace hafta3
 {
@@ -74,13 +75,29 @@ namespace hafta3
 
 
 
+        public static void soru6()//Verilen bir kişi adını bir dizide arayan ve bulunup bulunamadığını belirten program. (Diziyi siz girebilirsiniz ya da kullanıcıdan alabilirsiniz.)
+        {
+           string[] names=new string[]{"sümeyye","büşra","kader","ömer","faruk"};    
+           Console.Write("Aranacak isim: ");
+           string name=Console.ReadLine().ToLower();
+           if(names.Contains(name)) {
+               Console.WriteLine("Bulundu");
+           }
+           else{
+               Console.WriteLine("Bulunmadı");
+           }
+        }
+
+
+
         static void Main(string[] args)
         {
             //soru1();
             //soru2();
             //soru3();
             //soru4();
-            soru5();
+            //soru5();
+            soru6();
         }
     }
 }
