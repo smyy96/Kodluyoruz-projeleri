@@ -102,6 +102,16 @@ namespace hafta3
 
 
 
+
+         public static void soru8()//Girilen string ifadede boşluk karakterine kadar olan kısmı yazdıran program.(Örnek: Kodluyoruz’da yer alan bootcamp’lere başvuracağım cümlesi girildiğinde ekrana sadece Kodluyoruz’da yazdırılması gerekir.)
+         {
+            Console.Write("Cümle giriniz: ");
+            string[] words=Console.ReadLine().Split(' '); 
+            Console.Write(words[0]);  
+         }
+
+
+
         static void Main(string[] args)
         {
             //soru1();
@@ -110,7 +120,8 @@ namespace hafta3
             //soru4();
             //soru5();
             //soru6();
-            soru7();
+            //soru7();
+            soru8();
         }
     }
 }
