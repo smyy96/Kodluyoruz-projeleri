@@ -14,7 +14,7 @@ namespace hafta3
 
         public static void soru2() //Verilen bir karakter dizininin substring() metodunu kullanarak string içerisinde arama yapan ve kaç defa geçtiğini bulan program.
         {
-            int count=0;
+             int count=0;
              Console.Write("Cümle giriniz: ");
              string[] words=Console.ReadLine().Split(' ');
              Console.Write("Aranacak kelimeyi giriniz: ");
@@ -25,12 +25,33 @@ namespace hafta3
                  }
              }
              Console.Write(word+" cümle içindeki sayısı "+count+"dir.");
+        }
+
+
+
+        public static void soru3()//Girilen sayı çift ise yarısını , tek ise 2 katını alarak ekrana yazdıran program.(Örneğin klavyeden 14 sayısı girilirse ekrana 7,11 sayısı girilirse ekrana 22 yazılması gerekir.)
+        {
+            Console.Write("Enter a number: ");
+            int num=int.Parse(Console.ReadLine());
+            if(num%2==0){
+                Console.Write(num/2);
+            }
+            else{
+                Console.Write(num*2);
+            }
 
         }
+
+
+
+
+
+
         static void Main(string[] args)
         {
             //soru1();
-            soru2();
+            //soru2();
+            soru3();
         }
     }
 }
