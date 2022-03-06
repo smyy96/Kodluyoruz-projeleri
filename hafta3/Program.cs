@@ -44,9 +44,6 @@ namespace hafta3
 
 
 
-
-
-
         public static void soru4()//Klavyeden girilen bir sayının faktöriyelini alan program.
         {
             int fak=1;
@@ -59,6 +56,21 @@ namespace hafta3
             
         }
 
+        public static void soru5()//1’den başlayıp 200’e kadar klavyeden girilen sayıya bölünen kaç adet sayı olduğunu veren program. (Örneğin klavyeden 6 girişi yapıldığında 1 ile 200 arasında 6’ya bölünen kaç adet sayı olduğunu ekrana yazdırması gerekir.)
+        {
+            int count=0;
+            Console.Write("Enter a number: ");
+            int num=int.Parse(Console.ReadLine());
+            for(int i=num;i<=200;i++){
+                if(i%num==0){
+                    count++;
+                    Console.Write(" "+i);
+                }
+            }
+            Console.Write("\n Bölünen sayısı: "+count);
+
+        }
+
 
 
 
@@ -67,7 +79,8 @@ namespace hafta3
             //soru1();
             //soru2();
             //soru3();
-            soru4();
+            //soru4();
+            soru5();
         }
     }
 }
