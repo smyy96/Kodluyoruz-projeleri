@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\hafta3\\hafta3.csproj",
+      "projectUniqueName": "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\hafta3\\hafta3.csproj",
       "projectName": "hafta3",
-      "projectPath": "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\hafta3\\hafta3.csproj",
+      "projectPath": "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\hafta3\\hafta3.csproj",
       "packagesPath": "C:\\Users\\Sumeyye\\.nuget\\packages\\",
-      "outputPath": "E:\\ders notları\\PATİKA\\Kodluyoruz projeleri\\hafta3\\obj\\",
+      "outputPath": "C:\\Users\\Sumeyye\\Documents\\GitHub\\Kodluyoruz-projeleri\\hafta3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sumeyye\\AppData\\Roaming\\NuGet\\NuGet.Config",
