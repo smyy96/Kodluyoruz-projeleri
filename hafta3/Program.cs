@@ -47,11 +47,27 @@ namespace hafta3
 
 
 
+        public static void soru4()//Klavyeden girilen bir sayının faktöriyelini alan program.
+        {
+            int fak=1;
+            Console.Write("Enter a number: ");
+            int num=int.Parse(Console.ReadLine());
+            for(int i=1;i<=num;i++){
+                fak*=i;
+            }
+            Console.Write(fak);
+            
+        }
+
+
+
+
         static void Main(string[] args)
         {
             //soru1();
             //soru2();
-            soru3();
+            //soru3();
+            soru4();
         }
     }
 }
