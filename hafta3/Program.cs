@@ -90,6 +90,18 @@ namespace hafta3
 
 
 
+
+
+         public static void soru7()//Derece olarak verilen sıcaklığı Fahrenheita çeviren program
+         {
+            Console.Write("Enter a degree: ");
+            int C=int.Parse(Console.ReadLine());
+            Console.Write(C+"C => "+((C*1.8)+32)+"F");
+
+         }
+
+
+
         static void Main(string[] args)
         {
             //soru1();
@@ -97,7 +109,8 @@ namespace hafta3
             //soru3();
             //soru4();
             //soru5();
-            soru6();
+            //soru6();
+            soru7();
         }
     }
 }
