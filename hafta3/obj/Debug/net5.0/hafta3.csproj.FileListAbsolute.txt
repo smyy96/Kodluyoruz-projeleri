@@ -1,0 +1,16 @@
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\bin\Debug\net5.0\hafta3.exe
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\bin\Debug\net5.0\hafta3.deps.json
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\bin\Debug\net5.0\hafta3.runtimeconfig.json
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\bin\Debug\net5.0\hafta3.runtimeconfig.dev.json
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\bin\Debug\net5.0\hafta3.dll
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\bin\Debug\net5.0\ref\hafta3.dll
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\bin\Debug\net5.0\hafta3.pdb
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.csproj.AssemblyReference.cache
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.AssemblyInfoInputs.cache
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.AssemblyInfo.cs
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.csproj.CoreCompileInputs.cache
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.dll
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\ref\hafta3.dll
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.pdb
+E:\ders notları\PATİKA\Kodluyoruz projeleri\hafta3\obj\Debug\net5.0\hafta3.genruntimeconfig.cache
