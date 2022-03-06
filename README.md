@@ -12,4 +12,8 @@ Kodluyoruz ekibinin gönderdiği haftalık projelerin kodlamaları.
 
 ![image](https://user-images.githubusercontent.com/62007900/155898217-b5e67075-8a2e-4b9c-9fae-b16201dd38e9.png)
 
+## 3. Hafta
+
+![image](https://user-images.githubusercontent.com/62007900/156939598-038a7bbd-1b0b-452e-997a-77e42a466a14.png)
+
 
